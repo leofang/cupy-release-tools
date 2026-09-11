@@ -10,7 +10,7 @@ if TYPE_CHECKING:
 
 
 # CuPy major version supported by this tool.
-CUPY_MAJOR_VERSION = '15'
+CUPY_MAJOR_VERSION = '14'
 
 
 class _SDistConfig(TypedDict):
